@@ -1,9 +1,19 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('/path/to/fonts/Gilroy-ExtraBold.woff2') format('woff2'),
+         url('/path/to/fonts/Gilroy-ExtraBold.woff') format('woff'),
+         url('/path/to/fonts/Gilroy-ExtraBold.ttf') format('truetype');
+    font-weight: 800; /* ExtraBold is typically 800 */
+    font-style: normal;
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Gilroy-ExtraBold;
+    font-family: 'Gilroy', sans-serif;
 }
+
 
 
 .head{
