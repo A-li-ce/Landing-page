@@ -1,0 +1,52 @@
+/* Group 1171276350 */
+
+position: absolute;
+width: 247.05px;
+height: 27.86px;
+left: 625.95px;
+top: 78.78px;
+
+
+
+/* PitchPerfect */
+
+position: absolute;
+width: 207.11px;
+height: 27.86px;
+left: 625.95px;
+top: 78.78px;
+
+background: #FFFFFF;
+
+
+/* AI */
+
+position: absolute;
+width: 32.51px;
+height: 26px;
+left: 840.49px;
+top: 79.71px;
+
+background: #FF5811;
+
+
+
+
+/* Group 1171275619 */
+
+position: absolute;
+width: 1031px;
+height: 610px;
+left: 205px;
+top: 593px;
+
+
+/* Rectangle 1273 */
+
+position: absolute;
+width: 1627px;
+height: 1192px;
+left: calc(50% - 1627px/2 + 0.5px);
+top: 0px;
+
+background: rgba(17, 10, 43, 0.89);
